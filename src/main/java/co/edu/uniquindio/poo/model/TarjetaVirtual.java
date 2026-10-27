@@ -1,5 +1,6 @@
 package co.edu.uniquindio.poo.model;
 
+import co.edu.uniquindio.poo.enums.EstadoTarjeta;
 import co.edu.uniquindio.poo.enums.TipoMovimiento;
 import co.edu.uniquindio.poo.exceptions.DatosInvalidosException;
 import co.edu.uniquindio.poo.exceptions.SaldoInsuficienteException;
